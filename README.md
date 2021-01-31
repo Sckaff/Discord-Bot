@@ -1,8 +1,9 @@
-#Discord Bot 
-##His name is Totó
+# Discord Bot (Totó)
 
-###What to do:
+## [This](https://www.youtube.com/watch?v=SPTfmiYiuok) is where I learned.
+ 
+## What to do next:
 
-[]Implement GIF 
-[]Give positions
-[]Play music from YouTube 
+[] Implement GIF 
+[] Give positions
+[] Play music from YouTube 
