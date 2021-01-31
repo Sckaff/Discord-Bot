@@ -1,9 +1,8 @@
 # Discord Bot (Totó)
-
-## [This](https://www.youtube.com/watch?v=SPTfmiYiuok) is where I learned.
+[This](https://www.youtube.com/watch?v=SPTfmiYiuok) is where I started learning.
  
 ## What to do next:
 
-[] Implement GIF 
-[] Give positions
-[] Play music from YouTube 
+- [ ] Implement GIF 
+- [ ] Give positions
+- [ ] Play music from YouTube 
